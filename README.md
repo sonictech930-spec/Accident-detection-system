@@ -23,5 +23,11 @@ It sends SMS with GPS location using GSM module.
 2. GPS fetches coordinates.
 3. GSM sends SMS to emergency contact.
 
+## 🔗 Live Simulation
+
+You can view the working simulation here:
+
+👉 [Click here to open the live simulation](https://app.cirkitdesigner.com/project/53d03261-9545-42a9-b685-c14d6692a945)
+
 ## Author
 SonicTech
